@@ -1,3 +1,7 @@
-:root{
+:root {
     --bg-main: #fff;
-}
+    --bg-main-grey: #F6F6F6;
+
+    --font-color-grey:#525151;
+    --color-main-black: #070707;
+}  
