@@ -14,7 +14,7 @@
 .about-subtitle-ru {
     font-size: 18px;
     font-weight: 500;
-    margin: 0 auto 15px 0;
+    margin: 0 auto 15px;
     max-width: 780px;
 
 }
@@ -22,7 +22,7 @@
 .about-description-ru {
     font-size: 18px;
     font-weight: 500;
-    margin: 0 auto 15px 0;
+    margin: 0 auto 15px;
     text-align: justify;
     max-width: 780px;
 }
@@ -30,14 +30,14 @@
 .about-subtitle-en {
     font-size: 18px;
     font-weight: 500;
-    margin: 10px auto 0 0;
+    margin: 0 auto 15px ;
     max-width: 780px;
 }
 
 .about-description-en {
     font-size: 18px;
     font-weight: 500;
-    margin: 0 auto 15px 0;
+    margin: 0 auto 15px;
     text-align: justify;
     max-width: 780px;
 }
